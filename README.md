@@ -37,3 +37,46 @@ A simple counter application demonstrating the use of the **ViewModel** componen
 This is the foundational project for understanding how to use the **ViewModel** to prevent data loss and enhance application reliability.
 
 ---
+
+### Screenshots
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>Main Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_18_ViewModel_App/blob/main/Result%20Pics/01%20Main%20Screen.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>User Input
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_18_ViewModel_App/blob/main/Result%20Pics/02%20User%20Input.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Configuration changed & Data not lost
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_18_ViewModel_App/blob/main/Result%20Pics/03%20Configuration%20changed%20%26%20Data%20not%20lost.jpg" height="510" width="480"> </td> </tr> </table>
+
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>User Input
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_18_ViewModel_App/blob/main/Result%20Pics/04%20User%20Input.jpg" height="510" width="480"> 
+ </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Configuration changed & VM showing latest data
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_18_ViewModel_App/blob/main/Result%20Pics/05%20Configuration%20changed%20%26%20VM%20showing%20latest%20data.jpg" height="510" width="240"> </td> </tr> </table>
+
+
+---
